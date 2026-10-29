@@ -20,3 +20,20 @@ This is the main file that will learn a multivariate Gaussian process based join
 * new_rejectSam.R and R_functions_new_new.r
 
 Those files contain auxillary functions such as rejection sampling, simulation data generation process, etc.
+
+## Citation
+
+[Paper](https://doi.org/10.1080/00401706.2020.1832582) (Technometrics, 2021). If you use this code, please cite:
+
+```bibtex
+@article{yue2021joint,
+  title={Joint Models for Event Prediction From Time Series and Survival Data},
+  author={Yue, Xubo and Al Kontar, Raed},
+  journal={Technometrics},
+  volume={63},
+  number={4},
+  pages={477--486},
+  year={2021},
+  doi={10.1080/00401706.2020.1832582}
+}
+```
